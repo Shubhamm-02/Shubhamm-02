@@ -17,6 +17,7 @@ Live: https://shubham-doppelganger.vercel.app/
 
 ### PDF Grounded Chatbot
 PDF RAG chatbot with citations, guardrails, and refusal behavior.
+
 Live: https://stair-digital.streamlit.app/
 
 ### CommentAI

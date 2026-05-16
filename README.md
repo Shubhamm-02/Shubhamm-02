@@ -15,11 +15,12 @@ RAG-grounded voice + chat agent that answers from my resume/projects and books i
 Tech: Next.js, OpenAI, Supabase pgvector, Vapi, Cal.com, Vercel  
 Live: https://shubham-doppelganger.vercel.app/
 
-### CommentAI
-Autonomous AI agent for social engagement using local LLMs, workflows, guardrails, and monitoring.
-
 ### PDF Grounded Chatbot
 PDF RAG chatbot with citations, guardrails, and refusal behavior.
+Live: https://stair-digital.streamlit.app/
+
+### CommentAI
+Autonomous AI agent for social engagement using local LLMs, workflows, guardrails, and monitoring.
 
 <!--
 **Shubhamm-02/Shubhamm-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

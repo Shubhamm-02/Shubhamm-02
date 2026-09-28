@@ -56,14 +56,3 @@ Developer tool that ingests TS/JS repos and maps functions, imports, and call re
 - **Global Rank 5 overall & Rank 3 (Neo4j Track), HACKHAZARDS '26** — with BlastRadius, among 2,657 final submissions from 51 countries
 - **1st Place, Unbounded Creativity — TRAE Hackathon (Nasiko Track)** — agent load-balancing system (Round Robin, Least Connections, P2C, Consistent Hashing with Bounded Loads) with health checks and real-time request-distribution monitoring
 
----
-
-## 🎓 Education
-
-**BITS Pilani (Digital) + Scaler School of Technology** — B.Sc. Computer Science Engineering + M.Sc. (Woolf University) · CGPA 9.6 / 10.0 · 2024–Present
-
----
-
-## 📫 Connect
-
-[Email](mailto:shubhamshah473@gmail.com) · [LinkedIn](https://linkedin.com/in/shubham-shah2006) · [GitHub](https://github.com/Shubhamm-02)
